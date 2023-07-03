@@ -1,0 +1,17 @@
+{
+  "datasets": {
+    "hydro": { "filename": "hydro_data.tar.bz2", "last_updated": "2023-03-01" },
+    "covid": {
+      "filename": "covid19_data.tar.bz2",
+      "last_updated": "2023-03-01"
+    },
+    "covid_mcmc": {
+      "filename": "covid19_data2.tar.bz2",
+      "last_updated": "2023-06-01"
+    },
+    "covidst_mcmc": {
+      "filename": "covid19_data3.tar.bz2",
+      "last_updated": "2023-07-01"
+    }
+  }
+}
