@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 
 - Added data for the priors tutorial [PR #3](https://github.com/4DModeller/fdmr_data/pull/3)
+- Added data for the data pre-processing tutorial [PR #4](https://github.com/4DModeller/fdmr_data/pull/4)
 
 ## 2023-07-03
 
