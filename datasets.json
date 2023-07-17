@@ -12,6 +12,10 @@
     "covidst_mcmc": {
       "filename": "covid19_data3.tar.bz2",
       "last_updated": "2023-07-01"
+    },
+    "priors": {
+      "filename": "PriorTut_dat.tar.bz2",
+      "last_updated": "2023-07-17"
     }
   }
 }
