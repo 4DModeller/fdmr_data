@@ -4,6 +4,12 @@ All notable changes to `fdmr_data` will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2023-07-21
+
+### Changed
+
+- Updated the priors tutorial data to include the `m5` model output variable
+
 ## 2023-07-17
 
 ### Added
