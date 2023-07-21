@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Changed
 
-- Updated the priors tutorial data to include the `m5` model output variable
+- Updated the priors tutorial data to include the `m5` model output variable [PR #7](https://github.com/4DModeller/fdmr_data/pull/7)
 
 ## 2023-07-17
 
