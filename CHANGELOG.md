@@ -4,6 +4,12 @@ All notable changes to `fdmr_data` will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2023-11-01
+
+### Changed
+
+- Updated the Tibetan Lakes dataset - [PR #9](https://github.com/4DModeller/fdmr_data/pull/9)
+
 ## 2023-09-21
 
 ### Added
