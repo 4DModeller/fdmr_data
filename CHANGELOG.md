@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 
-- Added the Indian Ocean dataset - [PR #13](https://github.com/4DModeller/fdmr_data/pull/13)
+- Added the Indian Ocean dataset - [PR #14](https://github.com/4DModeller/fdmr_data/pull/14)
 
 ## 2023-11-01
 
