@@ -4,6 +4,12 @@ All notable changes to `fdmr_data` will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2024-03-20
+
+### Added
+
+- Added the Indian Ocean dataset - [PR #14](https://github.com/4DModeller/fdmr_data/pull/14)
+
 ## 2023-11-01
 
 ### Changed
